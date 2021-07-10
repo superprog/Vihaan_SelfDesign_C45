@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border:solid black;
+}
+.header{
+  margin: 20px;
+  background-color: skyblue;
+  border-style: ridge;
+  
+}
+H1{
+  color:darkblue
+}
